@@ -12,6 +12,6 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 
-"Models" at 0x52e61459BD41aefA9E1A6915f20CbE7ec70eF1BC
-"WeatherRequestConsumer" at 0x9E9033b1fa9b00F2aeF81266E7DF600fDdcA3d26
-"AutomaticallyUpdateWeather" at 0xDC96363D4d52E6929C1b4FDe32109D2162Fd2292
+"Models" at 0x52e61459BD41aefA9E1A6915f20CbE7ec70eF1BC  
+"WeatherRequestConsumer" at 0x9E9033b1fa9b00F2aeF81266E7DF600fDdcA3d26  
+"AutomaticallyUpdateWeather" at 0xDC96363D4d52E6929C1b4FDe32109D2162Fd2292  
